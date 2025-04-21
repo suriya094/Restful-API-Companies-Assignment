@@ -1,4 +1,4 @@
-#Company Directory Flask API
+## Company Directory Flask API
 
 This is a lightweight Flask-based API that allows users to search for companies and update company details stored in a JSON file.
 
@@ -17,7 +17,7 @@ This is a lightweight Flask-based API that allows users to search for companies 
 - Data stored in a JSON file for simplicity
 ---
 
-## 📦 Setup Instructions
+## Setup Instructions
 1. Clone the Repository
 
 ```bash
