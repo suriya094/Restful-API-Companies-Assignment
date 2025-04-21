@@ -20,14 +20,14 @@ This is a lightweight Flask-based API that allows users to search for companies 
 ## Setup Instructions
 1. Clone the Repository
 
-bash
+```bash
 git clone https://github.com/suriya094/Certara.AI-Coding-Challenge.git
-cd Certara.AI-Coding-Challenge
+cd Certara.AI-Coding-Challenge```
 
 2. Create a Virtual Environment
-python -m venv venv
+```python -m venv venv
 source venv/bin/activate     # macOS/Linux
-venv\Scripts\activate        # Windows
+venv\Scripts\activate        # Windows```
 
 3. Install Dependencies
 -  pip install Flask
