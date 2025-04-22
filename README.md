@@ -63,6 +63,7 @@ Returns: The updated company object
 
 Example Request:
 PUT /company/101
+Example: PUT http://127.0.0.1:5000/company/101
 Content-Type: application/json
 
 {
