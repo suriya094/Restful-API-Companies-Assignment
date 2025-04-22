@@ -43,7 +43,8 @@ Query Param: q (string, optional) — the search keyword
 Returns: Up to 50 matched companies in JSON format
 
 Example Request:
-GET /company/list?q=tech
+GET <server application is running on>/company/list?q=tech
+Example: GET http://127.0.0.1:5000/company/list?q=tech
 Example Response:
 [
   {
