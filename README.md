@@ -20,7 +20,7 @@ This is a lightweight Flask-based API that allows users to search for companies 
 ## Setup Instructions
 1. Clone the Repository
 
-```bash
+```
 git clone https://github.com/suriya094/Restful-API-Companies-Assignment.git
 cd Restful-API-Companies-Assignment
 
