@@ -22,7 +22,7 @@ This is a lightweight Flask-based API that allows users to search for companies 
 
 ```bash
 git clone https://github.com/suriya094/Restful-API-Companies-Assignment.git
-cd Certara.AI-Coding-Challenge```
+cd Restful-API-Companies-Assignment```
 
 2. Create a Virtual Environment
 ```python -m venv venv
