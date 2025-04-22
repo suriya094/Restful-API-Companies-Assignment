@@ -35,7 +35,6 @@ venv\Scripts\activate        # Windows```
 4. Run the Application
   python companies.py
 
-Visit http://localhost:5000 to access the API
 
 ## API Reference
 GET /company/list?q=<query>
