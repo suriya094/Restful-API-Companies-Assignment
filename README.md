@@ -2,7 +2,7 @@
 
 This is a lightweight Flask-based API that allows users to search for companies and update company details stored in a JSON file.
 
-**GitHub Repository:** [https://github.com/suriya094/Certara.AI-Coding-Challenge](https://github.com/suriya094/Certara.AI-Coding-Challenge)
+**GitHub Repository:** [https://github.com/suriya094/Restful-API-Companies-Assignment](https://github.com/suriya094/Restful-API-Companies-Assignment)
 
 ---
 
