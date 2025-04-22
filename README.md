@@ -22,12 +22,12 @@ This is a lightweight Flask-based API that allows users to search for companies 
 
 ```bash
 git clone https://github.com/suriya094/Restful-API-Companies-Assignment.git
-cd Restful-API-Companies-Assignment```
+cd Restful-API-Companies-Assignment
 
 2. Create a Virtual Environment
-```python -m venv venv
+python -m venv venv
 source venv/bin/activate     # macOS/Linux
-venv\Scripts\activate        # Windows```
+venv\Scripts\activate        # Windows
 
 3. Install Dependencies
 -  pip install Flask
