@@ -21,7 +21,7 @@ This is a lightweight Flask-based API that allows users to search for companies 
 1. Clone the Repository
 
 ```bash
-git clone https://github.com/suriya094/Certara.AI-Coding-Challenge.git
+git clone https://github.com/suriya094/Restful-API-Companies-Assignment.git
 cd Certara.AI-Coding-Challenge```
 
 2. Create a Virtual Environment
